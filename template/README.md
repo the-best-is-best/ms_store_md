@@ -20,13 +20,8 @@ MS Store now ui only supported maps and locations.
 - more coming soon
 
 ## Up-Coming Features:
-- Api with php native
-- Bloc 
-- Generate file
-- validation
-- Dio
-- Logging
-- Dependency Injection 
+
+- Dark Mode
 
 **Step 1:**
 
@@ -100,6 +95,7 @@ lib/
 - Know is tablet or phone
 
 ### resources
+```
 |- assets_manager.dart
 |- color_manager.dart
 |- font_manager.dart
@@ -109,15 +105,15 @@ lib/
 |- strings_manager.dart
 |- themes_manager.dart
 |- values_manager.dart
-
+```
 ## dummy
-
+```
 |- cart_dummy.dart
 |- category_dummy.dart
 |- product_dummy.dart
 |- favorite_dummy.dart
 |- product_dummy.dart
-
+```
 ## feature
  it is ui
 
